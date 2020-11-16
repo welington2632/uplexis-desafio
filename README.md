@@ -26,4 +26,4 @@
 
 Atenção, certifique-se de possuir o Node e yarn instalado, e não ter nenhum serviço rodando na porta 8080.
 ```
-> Se você preferir, não precisa baixar o projeto, ele está na nuvem e pode ser acesso a qualquer instante! https://uplexis-desafio.herokuapp.com/
+> Se você preferir, não precisa baixar o projeto, ele está na nuvem e pode ser acessado a qualquer instante! https://uplexis-desafio.herokuapp.com/
