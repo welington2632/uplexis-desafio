@@ -1,4 +1,6 @@
 {
+  "postinstall": "yarn build",
+  "start": "yarn serve",
   "name": "uplexis",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +11,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
     "node-sass": "^5.0.0",
     "sass-loader": "^10.1.0",
     "vue": "^2.6.11",
