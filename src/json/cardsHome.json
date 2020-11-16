@@ -1,0 +1,109 @@
+[
+    {
+      "id": 1,
+      "title": "Profissional",
+      "subtitle": "",
+      "icon": "mdi-briefcase-variant",
+      "price": 15.99,
+      "lancamento": "2015-11-15"
+    },
+    {
+      "id": 2,
+      "title": "Reguladores",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-bank",
+      "price": 50.99,
+      "lancamento": "2020-2-20"
+    },
+    {
+      "id": 3,
+      "title": "Sócio Ambiental",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-pine-tree",
+      "price": 10.99,
+      "lancamento": "2019-2-20"
+    },
+    {
+      "id": 4,
+      "title": "Jurídico",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-gavel",
+      "price": 29.99,
+      "lancamento": "2020-5-25"
+    },
+    {
+      "id": 5,
+      "title": "Listas Restritivas",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-cancel",
+      "price": 29.99,
+      "lancamento": "2020-4-25"
+    },
+    {
+      "id": 6,
+      "title": "Midia / Internet",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-earth",
+      "price": 35.99,
+      "lancamento": "2015-4-10"
+    },
+    {
+      "id": 7,
+      "title": "Bens e imóveis",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-diamond-stone",
+      "price": 100.99,
+      "lancamento": "2017-4-10"
+    },
+    {
+      "id": 8,
+      "title": "Cadastro",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-human-male",
+      "price": 29.99,
+      "lancamento": "2019-4-10"
+    },
+    {
+      "id": 9,
+      "title": "Financeiro",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-piggy-bank",
+      "price": 48.99,
+      "lancamento": "2018-1-18"
+    },
+    {
+      "id": 10,
+      "title": "Financeiro",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-piggy-bank",
+      "price": 29.99,
+      "lancamento": "2018-8-23"
+    },
+    {
+      "id": 11,
+      "title": "Sócio Ambiental",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-pine-tree",
+      "price": 29.99,
+      "lancamento": "2014-7-13"
+    },
+    {
+      "id": 12,
+      "title": "Jurídico",
+      "subtitle":
+        "O Aplicativo Balanço Patrimonial realiza a consulta de todos os balanços que são publicados nos Diários Oficiais de empresas S.A., de capital aberto e limitadas (LTDA) de grande porte.",
+      "icon": "mdi-gavel",
+      "price": 29.99,
+      "lancamento": "2014-2-27"
+    }
+  ]

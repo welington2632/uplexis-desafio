@@ -1,0 +1,52 @@
+[
+    {
+      "text": "Todos",
+      "icon": "mdi-web",
+      "active": true
+    },
+    {
+        "text": "Profissional",
+        "icon": "mdi-briefcase-variant",
+        "active": false
+    },
+    {
+        "text": "Reguladores",
+        "icon": "mdi-bank",
+        "active": false
+    },
+    {
+        "text": "Sócio Ambiental",
+        "icon": "mdi-pine-tree",
+        "active": false
+    },
+    {
+        "text": "Jurídico",
+        "icon": "mdi-gavel",
+        "active": false
+    },
+    {
+        "text": "Listas Restritivas",
+        "icon": "mdi-cancel",
+        "active": false
+    },
+    {
+        "text": "Midia / Internet",
+        "icon": "mdi-earth",
+        "active": false
+    },
+    {
+        "text": "Bens e imóveis",
+        "icon": "mdi-diamond-stone",
+        "active": false
+    },
+    {
+        "text": "Cadastro",
+        "icon": "mdi-human-male",
+        "active": false
+    },
+    {
+        "text": "Financeiro",
+        "icon": "mdi-piggy-bank",
+        "active": false
+    }
+  ]
