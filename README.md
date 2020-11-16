@@ -17,7 +17,7 @@
 
 ## Guia de instalação
 ```
-1 - Através de um terminal (Git bash / Vscode), va até a pasta onde deseja salvar o arquivo
+1 - Através de um terminal (Git bash / Vscode), va até a pasta onde deseja clonar o projeto
 2 - Clone o repositório : https://github.com/welington2632/uplexis-desafio.git
 3 - Entre na pasta uplexis-desafio : cd uplexis-desafio/
 4 - Baixa as dependências yarn install
